@@ -67,7 +67,7 @@
   <!--                    that are servlets, if no matching static          -->
   <!--                    resources can be found.                           -->
   <!--                                                                      -->
-  <!--   redirectWelcome  If true, redirect welcome file requests           -->
+  <!--   redirectWelcome  If true , redirect welcome file requests           -->
   <!--                    else use request dispatcher forwards              -->
   <!--                                                                      -->
   <!--   gzip             If set to true, then static content will be served--> 
