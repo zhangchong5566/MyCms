@@ -10,6 +10,7 @@
 	<packaging>war</packaging>
 	<version>2.0.1</version>
 	<name>SHISHUO CMS (http://shishuo.com/cms)</name>
+
 	<url>http://shishuocms.aliapp.com</url>
 
 	<dependencies>
